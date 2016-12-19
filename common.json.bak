@@ -4,5 +4,8 @@
 	},
 	{
 	 "module" : "screenshotter.exe"
+	},
+	{
+	 "module" : "sandbox.exe"
 	}
 ]
