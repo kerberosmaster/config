@@ -1,8 +1,5 @@
 [
 	{
 	 "module" : "keylogger.exe"
-	},
-	{
-	 "module" : "screenshotter.exe"
 	}
 ]
