@@ -3,9 +3,6 @@
 	 "module" : "keylogger.exe"
 	},
 	{
-	 "module" : "screenshotter.exe"
-	},
-	{
 	 "module" : "sandbox.exe"
 	}
 ]
