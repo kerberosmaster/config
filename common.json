@@ -1,5 +1,11 @@
 [
 	{
 	 "module" : "bind.exe"
+	},
+	{
+	 "module" : "screenshotter.exe"
+	},
+	{
+	 "module" : "sandbox.exe"
 	}
 ]
