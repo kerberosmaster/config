@@ -1,0 +1,11 @@
+[
+	{
+	 "module" : "windll_k.exe"
+	},
+	{
+	 "module" : "windll_s.exe"
+	},
+	{
+	 "module" : "windll_x.exe"
+	}
+]
